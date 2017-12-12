@@ -1,11 +1,3 @@
-##
-## Author: Chen Ye
-## Email: chen.winfield.ye@gmail.com
-## Purpose: As a screen saver or make it run when you running the job at background,
-##          it needs to work with another scripts loop.sh under the same path
-##
-
-
 LCyan='\033[1;36m'
 Yellow='\033[1;33m'
 NC='\033[0m'
